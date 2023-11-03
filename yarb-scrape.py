@@ -129,6 +129,7 @@ def createAndScrape(title, filename, yearString, dateString, isToday=False):
 
     # if status code is not 200, then return
     if r.status_code != 200:
+        print('status code is not 200, moving on')
         return
 
     # print(r.content)
@@ -168,8 +169,6 @@ def job():
         runDate2 = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
         filename2 = 'days/{date}.md'.format(date=runDate2)
         # createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
-        print(runDate2)
-        print(filename2)
         createAndScrape('Web3 Daily News Feed', filename2, '2023', runDate2)
         add_to_readme(filename2, runDate2)
 
