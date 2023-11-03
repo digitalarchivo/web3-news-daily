@@ -1,0 +1,290 @@
+## 2023-11-02
+
+#### Web3 Yarb
+# 每日 web3 资讯（2023-11-02）
+
+- Andreessen Horowitz
+  - [Investing in Gate Bio](https://a16z.com/announcement/investing-in-gate-bio/)
+  - [Usage-Based Pricing Is Popular, But Is It Right For You? Our Rule of Thumb](https://a16z.com/usage-based-pricing-rule-of-thumb/)
+  - [Investing in Prepared](https://a16z.com/announcement/investing-in-prepared/)
+- FYI - For Your Innovation
+  - [Cruise Stops Cruising and Meta Ray Ban Glasses | The Brainstorm EP 21](https://ark-invest.com/podcast/the-brainstorm-ep-21/)
+- Longreads
+  - [Climate Change Is Keeping Therapists Up at Night](https://longreads.com/2023/11/01/climate-change-is-keeping-therapists-up-at-night/)
+  - [Weave Your Own Coffin](https://longreads.com/2023/11/01/weave-your-own-coffin/)
+- Matt Levine - Bloomberg Opinion Columnist
+  - [Trade the News, Then Publish It](https://www.bloomberg.com/opinion/articles/2023-11-01/trade-the-news-then-publish-it)
+- Ethereum Research - Latest posts
+  - [Booster rollups part 2: ZK-EVM as a ZK coprocessor](https://ethresear.ch/t/booster-rollups-part-2-zk-evm-as-a-zk-coprocessor/17279/1)
+  - [Introducing Poseidon VM: A zkApp-friendly blockchain virtual machine with EVM Compatibility](https://ethresear.ch/t/introducing-poseidon-vm-a-zkapp-friendly-blockchain-virtual-machine-with-evm-compatibility/14012/3)
+  - ["Exploring Layer-2 Scaling Solutions on Ethereum: A Comparative Analysis of Rollups, Plasma, and State Channels"](https://ethresear.ch/t/exploring-layer-2-scaling-solutions-on-ethereum-a-comparative-analysis-of-rollups-plasma-and-state-channels/17276/1)
+  - [The Influence of CeFi-DeFi Arbitrage on Order-Flow Auction Bid Profiles](https://ethresear.ch/t/the-influence-of-cefi-defi-arbitrage-on-order-flow-auction-bid-profiles/17258/2)
+  - [MEV burn—a simple design](https://ethresear.ch/t/mev-burn-a-simple-design/15590/29)
+  - [The Application of ZK-SNARKs in Solidity - Privacy Transformation, Computational Optimization, and MEV Resistance](https://ethresear.ch/t/the-application-of-zk-snarks-in-solidity-privacy-transformation-computational-optimization-and-mev-resistance/17017/11)
+  - [Practical WE bridge theorized while reviewing the source code of Zelda: Links Awakening](https://ethresear.ch/t/practical-we-bridge-theorized-while-reviewing-the-source-code-of-zelda-links-awakening/16115/15)
+  - [A recursive Sierpinski Triangle topology, sharded blockchain, unlocking realtime global scalability](https://ethresear.ch/t/a-recursive-sierpinski-triangle-topology-sharded-blockchain-unlocking-realtime-global-scalability/17263/1)
+- Messari Crypto News Feed
+  - [State of Celo Q3 2023](https://messari.io/article/state-of-celo-q3-2023)
+- Official BitGo Blog - Medium
+  - [BitGo: Crypto Water Cooler — Nov 1](https://blog.bitgo.com/bitgo-crypto-water-cooler-oct-25-d5f29606f327?source=rss----9f21e8f3e4cf---4)
+- Stories by Automata Network on Medium
+  - [Native USDC transfers on Carrier](https://blog.ata.network/native-usdc-transfers-on-carrier-e74d603adea8?source=rss-f15317e02c04------2)
+- Breez Technology - Medium
+  - [Building on Lightning: How Picnic Fosters IRL Connections with the Breez SDK](https://medium.com/breez-technology/building-on-lightning-how-picnic-fosters-irl-connections-with-the-breez-sdk-6852b2477298?source=rss----5f269a6c2ae1---4)
+- BitMEX Blog
+  - [Coming Soon: How to Create Your First Trading Bot in 30 Minutes](https://blog.bitmex.com/coming-bot-trading-webinar/)
+  - [Coming Soon: MINAUSDT Perpetual Swap Listing](https://blog.bitmex.com/mina-perpetual-swap/)
+- Stories by Bounce.finance on Medium
+  - [DIP Exchange Presents $DGT Fair Launch on Bounce Launchpad](https://bouncefinance.medium.com/dip-exchange-presents-dgt-fair-launch-on-bounce-launchpad-f566b2e4b711?source=rss-74b4e5aa79f6------2)
+- Stories by DFINITY on Medium
+  - [Hackathon winners put top ICP features into practice](https://medium.com/dfinity/hackathon-winners-put-top-icp-features-into-practice-90c9abeef342?source=rss-f46cd59473d8------2)
+- Electric Coin Company
+  - [Wallet performance issues resolved, ECC exiting Emergency Mode](https://electriccoin.co/blog/wallet-performance-issues-resolved-ecc-exiting-emergency-mode/)
+- Bitquery | RSS Feed
+  - [Comparative Analysis of Ethereum Layer-2 Solutions: Arbitrum & Polygon](https://bitquery.io/blog/comparative-analysis-of-ethereum-l2s)
+- Bitfinex blog
+  - [Change Log: Version 1.83](https://blog.bitfinex.com/changelogs/change-log-version-1-83/)
+- Mintbase - Medium
+  - [What’s new on Mintbase: October 2023](https://medium.com/mintbase/whats-new-on-mintbase-october-2023-3e97a10bf8a7?source=rss----dd628fb3a722---4)
+- Keystone - Medium
+  - [Exciting News: Keystone Integrates with Scroll Mainnet!](https://blog.keyst.one/exciting-news-keystone-integrates-with-scroll-mainnet-115eff1f79e6?source=rss----a9077bfb4ed8---4)
+- Deribit Insights
+  - [Crypto Options: Call Premium Everywhere](https://insights.deribit.com/industry/crypto-options-call-premium-everywhere/)
+- Stories by Nym on Medium
+  - [Press Release: Nym Partners With Near Foundation, Bringing Web3 Privacy To Users And Validators](https://blog.nymtech.net/press-release-nym-partners-with-near-foundation-bringing-web3-privacy-to-users-and-validators-844966df7f0b?source=rss-31df456bf882------2)
+- News  |  PayPal Newsroom
+  - [PayPal Reports Third Quarter 2023 Results](https://newsroom.paypal-corp.com/2023-11-01-PayPal-Reports-Third-Quarter-2023-Results)
+  - [PayPal Names Jamie Miller as Chief Financial Officer](https://newsroom.paypal-corp.com/2023-11-01-PayPal-Names-Jamie-Miller-as-Chief-Financial-Officer)
+- PowerPool - Medium
+  - [Distribution of Ecosystem Fund and Team tokens according to DAO decisions](https://medium.com/powerpool/distribution-of-ecosystem-fund-and-team-tokens-according-to-dao-decisions-c7281d463b6c?source=rss----734b6abdb4f3---4)
+- Nomic Foundation - Medium
+  - [Meet the Nomic Team — Zoey Morgan, Software Engineer on Ignition](https://medium.com/nomic-foundation-blog/meet-the-nomic-team-zoey-morgan-software-engineer-on-ignition-4586b61b6a90?source=rss----2db11fd1fd8e---4)
+- Stories by SubQuery Network on Medium
+  - [SubQuery Expands Indexing Support to Boba Network!](https://subquery.medium.com/subquery-expands-indexing-support-to-boba-network-4a5507a58464?source=rss-363112002081------2)
+- Stories by Vertalo on Medium
+  - [The Case Against Bearer Assets (as Securities)](https://vertalo.medium.com/the-case-against-bearer-assets-as-securities-fd5e9d226efc?source=rss-86347d8c846f------2)
+- Newcomer
+  - [The AI Personal Stack (with Joshua Browder)](https://www.newcomer.co/p/the-ai-personal-stack-with-joshua)
+- Synthetix Blog
+  - [Synthetix V3 Markets: A Comprehensive Guide](https://blog.synthetix.io/synthetix-v3-markets-a-comprehensive-guide/)
+  - [SNXweave Weekly Recap 113](https://blog.synthetix.io/snxweave-weekly-recap-113/)
+- Xage Security
+  - [Okta’s Data Breach: Key Takeaways and the Resilience of Zero Trust](https://xage.com/blog/okta-data-breach-disclosure-zero-trust-lessons/)
+- The Optimism Collective
+  - [Answering the call: How RISC Zero and O(1) Labs are bringing ZK proofs to the OP Stack](https://optimism.mirror.xyz/XS7Ko4sn5Wab0dEWsXie7wO5JhFj5v7G1ckggfoY87U)
+- Changelog
+  - [Recommendations (beta)](https://ghost.org/changelog/recommendations/)
+- Blog Archives - Moralis Web3 | Enterprise-Grade Web3 APIs
+  - [Build on Solana and EVM – Solana & EVM Compatible APIs](https://moralis.io/build-on-solana-and-evm-solana-evm-compatible-apis/)
+- Crypto News on Seeking Alpha
+  - [MicroStrategy posts unexpected Q3 loss as bitcoin impairment rises](https://seekingalpha.com/news/4028704-microstrategy-posts-unexpected-q3-loss-as-bitcoin-impairment-rises?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+  - [SafeMoon creator, CEO charged with fraud by SEC, Justice Department](https://seekingalpha.com/news/4028044-safemoon-founder-ceo-charged-with-fraud-by-sec-justice-department?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+  - [PayPal gets green light to offer crypto services in U.K.](https://seekingalpha.com/news/4027965-paypals-uk-division-gets-ok-to-offer-crypto-services-in-uk?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+- Trustnodes
+  - [Ethereans Receive $500 in Celestia Airdrop, Hodl or ETH It?](https://www.trustnodes.com/2023/11/01/ethereans-receive-500-in-celestia-airdrop-hodl-or-eth-eet)
+  - [Tether Reduces Bitcoin Holdings, Announces $1 Billion Profit](https://www.trustnodes.com/2023/11/01/tether-reduces-bitcoin-holdings-announces-1-billion-profit)
+- Bitcoin Optech
+  - [Bitcoin Optech Newsletter #275](https://bitcoinops.org/en/newsletters/2023/11/01/)
+- CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+  - [Team Behind Celsius Bidder NovaWulf Starts New Firm Called Valinor](https://www.coindesk.com/business/2023/11/01/team-behind-celsius-bidder-novawulf-starts-new-firm-called-valinor/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [The Protocol: Celestia Airdrop Gets Crypto Users Asking About Starknet Despite No Similar Plans](https://www.coindesk.com/tech/2023/11/01/the-protocol-celestia-airdrop-gets-crypto-users-asking-about-starknet-despite-no-similar-plans/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Federal Reserve Leaves Rates Unchanged; Bitcoin Flat at $34.5K](https://www.coindesk.com/markets/2023/11/01/federal-reserve-leaves-rates-unchanged-bitcoin-flat-at-345k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [SBF vs. ETF: Get Rich Quick vs. Get Rich Slowly](https://www.coindesk.com/consensus-magazine/2023/11/01/sbf-vs-etf-get-rich-quick-vs-get-rich-slowly/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [SafeMoon Execs Arrested by DOJ in Fraud Investigation, Charged by SEC](https://www.coindesk.com/policy/2023/11/01/sec-charges-safemoon-team-with-fraud-offering-unregistered-crypto-securities/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [It’s Time for Web3 Games to Embrace Play AND Earn](https://www.coindesk.com/consensus-magazine/2023/11/01/its-time-for-web3-games-to-embrace-play-and-earn/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [FTX and the Case for Web3 YIMBYism](https://www.coindesk.com/consensus-magazine/2023/11/01/ftx-and-the-case-for-web3-yimbyism/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Crypto Venture Funds Variant, 1kx Lead $6M Funding Round for ZK-Meets-AI Startup Modulus](https://www.coindesk.com/tech/2023/11/01/crypto-venture-funds-variant-1kx-lead-6m-funding-round-for-zk-meets-ai-startup-modulus/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Bitget Embroiled in Bitter $10M Dispute With Floki Over TokenFi Memecoin Listing](https://www.coindesk.com/business/2023/11/01/bitget-embroiled-in-bitter-10m-dispute-with-floki-over-tokenfi-memecoin-listing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [3 Greenshoot Sectors in the Blockchain Space](https://www.coindesk.com/tech/2023/11/01/3-greenshoot-sectors-in-the-blockchain-space/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Why Momentum Trading Works In Crypto](https://www.coindesk.com/markets/2023/11/01/why-momentum-trading-works-in-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - ['A Pyramid of Deceit': Sam Bankman-Fried Lied to Jurors, Prosecutors Say in Closing Argument](https://www.coindesk.com/policy/2023/11/01/a-pyramid-of-deceit-prosecutors-begin-closing-argument-in-sam-bankman-fried-fraud-trial/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Fed Seen Holding Rates Steady, but Policy Statement and Press Conference Will Be Key for Bitcoin](https://www.coindesk.com/markets/2023/11/01/fed-seen-holding-rates-steady-but-policy-statement-and-press-conference-will-be-key-for-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Near Token Rallies Amid Nym Partnership, Ahead of Nearcon Conference](https://www.coindesk.com/markets/2023/11/01/near-token-rallies-amid-nym-partnership-ahead-of-nearcon-conference/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [How a Ph.D. Student's Research Paper Turned Celestia Into $345M Blockchain Project Overnight](https://www.coindesk.com/tech/2023/11/01/how-a-phd-students-research-paper-turned-celestia-into-345m-blockchain-project-overnight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [PayPal UK Unit Registers as Crypto Service Provider](https://www.coindesk.com/policy/2023/11/01/paypal-approved-for-uks-crypto-register/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [First Mover Americas: Trading Giants Like Jane Street Might Support Blackrock’s BTC ETF](https://www.coindesk.com/markets/2023/11/01/first-mover-americas-trading-giants-like-jane-street-might-support-blackrocks-btc-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [FTX, Alameda Wallets Move More Than $78 Million in Crypto to Exchanges: Spotonchain](https://www.coindesk.com/policy/2023/11/01/ftx-alameda-wallets-move-millions-in-crypto-to-exchanges-spotonchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Raging Bitcoin Bull Market Ahead, According to Key Indicator](https://www.coindesk.com/markets/2023/11/01/raging-bitcoin-bull-market-ahead-according-to-key-indicator/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Cubist, Led by Computer Science Professors, Releases Wallet-as-a-Service 'CubeSigner'](https://www.coindesk.com/tech/2023/11/01/cubist-led-by-computer-science-professors-releases-wallet-as-a-service-cubesigner/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Upcoming UK Rules for Crypto Ad Approvers Spell Uncertainty for Industry](https://www.coindesk.com/policy/2023/11/01/upcoming-uk-rules-for-crypto-ad-approvers-spell-uncertainty-for-industry/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [CFTC Awards $16M to U.S. Whistleblowers; Most Tips Were Crypto-Related](https://www.coindesk.com/policy/2023/11/01/cftc-awards-16m-to-us-whistleblowers-most-tips-were-crypto-related/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Sam Bankman-Fried Survived His Testimony. Next Up: The Jury](https://www.coindesk.com/policy/2023/11/01/sam-bankman-fried-survived-his-testimony-next-up-the-jury/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Bitcoin’s Safe Haven Status Bolstered by Treasury Underperformance, Mohamed El-Erian Says](https://www.coindesk.com/markets/2023/11/01/bitcoins-safe-haven-status-bolstered-by-treasury-underperformance-mohamed-el-erian-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [BitGo Granted German Crypto Custody License by BaFin](https://www.coindesk.com/policy/2023/11/01/bitgo-granted-german-crypto-custody-license-by-bafin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - ['Bruno Brock', Founder of Oyster Pearl, Gets 4 Year Jail Term for Tax Evasion](https://www.coindesk.com/policy/2023/11/01/bruno-brock-founder-of-oyster-pearl-gets-4-year-jail-term-for-tax-evasion/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Turkey in 'Final Stage' of Bringing Crypto Legislation as Last Step to Get Off FATF's Gray List: Minister](https://www.coindesk.com/policy/2023/11/01/turkey-in-final-stage-of-bringing-crypto-legislation-as-last-step-to-get-off-fatfs-grey-list-minister/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [Frax Finance Says its Domain Name Hijacking Has Been Resolved](https://www.coindesk.com/markets/2023/11/01/frax-finance-says-its-domain-name-has-been-hijacked/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+- Cointelegraph.com News
+  - [Bitcoin beyond 35K for Christmas? Thank Jerome Powell if it happens](https://cointelegraph.com/news/bitcoin-beyond-35k-christmas-thank-jerome-powell)
+  - [Breaking: Some Multichain transactions are confirmed as queue unwinds](https://cointelegraph.com/news/multichain-transactions-confirmed-queue-unwinds)
+  - [Lazarus used ‘Kandykorn’ malware in attempt to compromise exchange — Elastic](https://cointelegraph.com/news/lazarus-kandykorn-malware-attempt-compromise-exchange-elastic)
+  - [Ethereum futures premium hits 1-year high — Will ETH price follow?](https://cointelegraph.com/news/ethereum-futures-premium-hits-1-year-high-will-eth-price-follow)
+  - [Sam Bankman-Fried ‘doubled down’ by buying Binance’s stake in FTX — US prosecutors](https://cointelegraph.com/news/sam-bankman-fried-sbf-doubled-down-buying-binance-stake-ftx-u-s-prosecutors)
+  - [Physical CryptoPunks, Mercedes NFTs, and Yuga Labs wins ‘copycat’ lawsuit: Nifty Newsletter](https://cointelegraph.com/news/physical-cryptopunks-mercedes-nfts-and-yuga-labs-wins-copycat-lawsuit-nifty-newsletter-oct-25-to-nov-1)
+  - [3 reasons why Ethereum price is down against Bitcoin](https://cointelegraph.com/news/3-reasons-why-ethereum-price-is-down-against-bitcoin)
+  - [Price analysis 11/1: BTC, ETH, BNB, XRP, SOL, ADA, DOGE, TON, LINK, MATIC](https://cointelegraph.com/news/price-analysis-11-1-btc-eth-bnb-xrp-sol-ada-doge-ton-link-matic)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today)
+  - [Visa completes digital Hong Kong dollar pilot test with local banks](https://cointelegraph.com/news/visa-completes-digital-hong-kong-dollar-pilot-test-cbdc-local-banks)
+  - [SafeMoon executive team charged with multiple fraud counts, arrests made](https://cointelegraph.com/news/safe-moon-executive-team-charged-multiple-fraud-counts-arrests-made)
+  - [Worldcoin claims 4M app downloads and 1M active users](https://cointelegraph.com/news/worldcoin-claims-4-million-app-downloads-1-million-active-users)
+  - [100%+ BTC price gains? Bitcoin faces ‘massively overvalued’ stocks](https://cointelegraph.com/news/100-btc-price-bitcoin-overvalued-stocks)
+  - [Sam Bankman-Fried trial [Day 16] — latest update: Live coverage](https://cointelegraph.com/news/sam-bankman-fried-ftx-trial-updates)
+  - [Unlocking value: Exploring the integration of NFTs and physical assets](https://cointelegraph.com/innovation-circle/unlocking-value-exploring-the-integration-of-nfts-and-physical-assets)
+  - [‘That’s fraud,’ prosecutors say in closing arguments at Sam Bankman-Fried trial](https://cointelegraph.com/news/thats-fraud-prosecutors-closing-arguments-sbf-trial)
+  - [Bitcoin crash pre-halving? Stablecoin metric that marked 2019 top flashes warning](https://cointelegraph.com/news/bitcoin-halving-crash-stablecoin-2019-top-warning)
+  - [UK AI Safety Summit begins with global leaders in attendance, remarks from China and Musk](https://cointelegraph.com/news/uk-ai-safety-summit-bletchy-declartion-china-elon-musk)
+  - [PayPal scores UK crypto license after brief local Bitcoin buy halt](https://cointelegraph.com/news/paypal-scores-uk-crypto-license)
+  - [Crypto’s ‘pro-rioter’ glitch artist stirs controversy — Patrick Amadon, NFT Creator](https://cointelegraph.com/magazine/crypto-pro-rioter-glitch-artist-controversy-patrick-amadon-nft-creator/)
+  - [AI and real-world assets gain prominence in investor discussions](https://cointelegraph.com/news/ai-real-world-assets-prominence-investor-discussions)
+  - [HSBC and Ant Group test tokenized deposits under HKMA sandbox](https://cointelegraph.com/news/hsbc-ant-group-test-tokenized-deposits-under-hkma-sandbox)
+  - [Canadian MP urges community to study Bitcoin, cites Gensler’s pre-SEC stance](https://cointelegraph.com/news/canadian-mp-urges-community-study-bitcoin-cites-gensler-s-pre-sec-stance)
+  - [Coinbase launches regulated crypto futures services for US retail traders](https://cointelegraph.com/news/coinbase-launches-regulated-crypto-futures-us-retail-traders)
+  - [Multiparty computation (MPC): Its effects on blockchain innovation](https://cointelegraph.com/innovation-circle/multiparty-computation-mpc-its-effects-on-blockchain-innovation)
+  - [US crypto custody firm BitGo wins BaFin license in Germany: Report](https://cointelegraph.com/news/crypto-bitgo-wins-license-germany)
+  - [Onyx Protocol exploiter begins siphoning $2.1M loot on Tornado Cash](https://cointelegraph.com/news/onyx-protocol-exploiter-siphon-2-1-m-loot-tornado-cash)
+  - [Meet the 13-year-old student selling sneakers for Bitcoin: The Agenda podcast](https://cointelegraph.com/news/meet-the-13-year-old-student-selling-sneakers-for-bitcoin-the-agenda-podcast)
+  - [FTX and Alameda Research wallets send $13.1M in crypto to exchanges overnight](https://cointelegraph.com/news/ftx-alameda-research-wallets-send-13-1-m-crypto-exchanges-overnight)
+- Blockworks: News and insights about digital assets.
+  - [Sam Bankman-Fried made to be ‘monster’ by prosecution, says defense](https://blockworks.co/news/sbf-trial-closing-argument-defense)
+  - [New Brunswick proposal would keep power from new crypto miners](https://blockworks.co/news/canada-crypto-mining-ban)
+  - [Crypto builders, please sweat the small stuff](https://blockworks.co/news/crypto-builders-eip-innovation)
+  - [Etherscan will no longer run Ava Labs’ block explorer](https://blockworks.co/news/block-explorer-ava-labs-etherscan)
+  - [HSBC adds fuel to tokenization fire with gold-focused offering](https://blockworks.co/news/hsbc-explores-gold-tokenization)
+  - [Sam Bankman-Fried ‘lied to you’ on the stand, prosecutors tell jury: SBF trial](https://blockworks.co/news/sbf-trial-closing-argument-prosecution)
+  - [SafeMoon accused of securities fraud in SEC lawsuit](https://blockworks.co/news/sec-charges-safemoon-fraud)
+  - [Taiwanese authorities seize $320M in country’s largest crypto laundering scheme](https://blockworks.co/news/taiwan-aml-crypto-seizure)
+  - [CFTC highlights record number of tip-offs stemming from the crypto industry](https://blockworks.co/news/cftc-whistleblowers-fraud-crypto-scams)
+  - [Bitcoin golden cross appears following largest monthly gain in 9 months](https://blockworks.co/news/bitcoin-performace-october-bullish)
+  - [Coinbase opens up crypto futures trading to US investors](https://blockworks.co/news/coinbase-investors-futures-trading)
+- Vega Protocol - Medium
+  - [On-chain Rewards Update](https://blog.vega.xyz/on-chain-rewards-update-8e4a20360e9f?source=rss----ac3f275d266f---4)
+- 動區動趨-最具影響力的區塊鏈新聞媒體
+  - [交易所提前上幣爭議》Floki 怒發文：沒授權Bitget上架TOKEN 幣，他們事發才談OTC買幣](https://www.blocktempo.com/floki-set-the-records-straight-about-the-unauthorized-bitget-token-listing-problem/)
+  - [拜登簽署首份AI行政命令！加強監管「人工智慧」國安危險](https://www.blocktempo.com/joe-biden-signs-first-ai-executive-order/)
+  - [FOMC會議前瞻》Fed預計利率不變、保留12月再升息可能](https://www.blocktempo.com/fed-meeting-preview/)
+  - [Aave的佈局挑戰：從Aave V3的高增速到GHO的流動性策略](https://www.blocktempo.com/aaves-innovations-and-challenges/)
+  - [20% 美國人擁有加密貨幣？真實情況別太樂觀](https://www.blocktempo.com/crypto-adoption-in-america/)
+  - [香港HashKey交易所推出手機APP開放散戶交易！註冊再獲HSK平台幣空投](https://www.blocktempo.com/crypto-exchange-hashkey-launches-app/)
+  - [ZK+DID：ZKID展開隱私安全賦能數位身份的新篇章](https://www.blocktempo.com/zkid-revealing-a-new-chapter-in-privacy-and-security-empowering-digital-identity/)
+  - [穩定幣Frax前端驚傳遭駭！域名商緊急修復後，創辦人籲保持警惕](https://www.blocktempo.com/hackers-attack-frax-front-end-of-web-pages/)
+- Release notes from go-spacemesh
+  - [v1.2.3](https://github.com/spacemeshos/go-spacemesh/releases/tag/v1.2.3)
+- Unchained Crypto
+  - [PayPal Receives UK Approval to Offer Crypto Services](https://unchainedcrypto.com/paypal-receives-uk-approval-to-offer-crypto-services/)
+  - [Coinbase Officially Opens Crypto Futures Trading to US Customers](https://unchainedcrypto.com/coinbase-officially-opens-crypto-futures-trading-to-us-customers/)
+  - [Bitcoin Price Could Hit $150K by 2025, Says Bernstein Analyst](https://unchainedcrypto.com/bitcoin-price-could-hit-150k-by-2025-says-bernstein-analyst/)
+  - [BlackRock Spot Bitcoin ETF Attracting Top Market Makers: Report](https://unchainedcrypto.com/blackrock-spot-bitcoin-etf-attracting-top-market-makers-report/)
+  - [Tether’s Q3 Reserves Stay Stable With Highest-Ever Cash and Equivalents](https://unchainedcrypto.com/tethers-q3-reserves-stay-stable-with-highest-ever-cash-and-equivalents/)
+  - [GAO Finds Fault With SEC’s Crypto Accounting Bulletin](https://unchainedcrypto.com/gao-finds-fault-with-secs-crypto-accounting-bulletin/)
+- Release notes from nimbus-eth1
+  - [Simulators results](https://github.com/status-im/nimbus-eth1/releases/tag/sim-stat)
+  - [Nightly build ("master" branch)](https://github.com/status-im/nimbus-eth1/releases/tag/nightly)
+- BTC Study
+  - [Simplicity：超越 Miniscript](https://www.btcstudy.org/2023/11/01/simplicity-going-beyond-miniscript-advancing-bitcoin-2023/)
+- Release notes from juvix
+  - [v0.5.3](https://github.com/anoma/juvix/releases/tag/v0.5.3)
+- Release notes from metamask-mobile
+  - [7.9.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.9.1)
+- Release notes from cardano-node
+  - [Cardano Node 8.6.0-pre](https://github.com/input-output-hk/cardano-node/releases/tag/8.6.0-pre)
+- Release notes from kubo
+  - [v0.24.0-rc1](https://github.com/ipfs/kubo/releases/tag/v0.24.0-rc1)
+- Release notes from lnd
+  - [v0.17.1-beta.rc1](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.1-beta.rc1)
+- Decrypt
+  - [What’s Driving the Solana Rally?](https://decrypt.co/204048/solana-rally-price-why)
+  - [Elon Musk Blasts NFTs—And Bitcoin Fans Love It](https://decrypt.co/204041/elon-musk-blasts-nfts-bitcoin-ordinals)
+  - [Global Powers Sign International Declaration on AI Safety](https://decrypt.co/204030/bletchley-declaration-on-ai-safety)
+  - [5 Questions with SCENE: Kevin Rose](https://decrypt.co/204028/5-questions-scene-video-kevin-rose)
+  - [5 Questions With SCENE: Kevin Rose](https://decrypt.co/videos/interviews/u9LDX8Vr/5-questions-with-scene-kevin-rose)
+  - [The Comeback Coin: Solana Soars 20% as Rally Rages On](https://decrypt.co/204021/solana-soars-in-seemingly-unstoppable-rally-to-be-best-performing-asset)
+  - [What Happened to Atari's Token? Inside Atari's Blockchain Plans](https://decrypt.co/videos/interviews/7OtQIdqa/what-happened-to-ataris-token-inside-ataris-blockchain-plans)
+  - [Atari Revives Retro Members Only Jackets for NFT Collectors](https://decrypt.co/203986/atari-revives-retro-members-only-jackets-nft-collectors)
+  - [SafeMoon Founders Arrested as DOJ Unseals Indictment, SEC Files Charges](https://decrypt.co/203988/safemoon-founders-arrested-doj-indictment-sec-charges)
+  - [Biggest Video Games Releasing in November 2023](https://decrypt.co/203987/biggest-video-games-releasing-in-november-2023)
+  - [Bitcoin Heavyweight DCG Hires Former Trump Impeachment Lawyer to Deal With Legal Woes](https://decrypt.co/203979/bitcoin-heavyweight-dcg-hires-trump-impeachment-lawyer)
+  - [PayPal Secures Crypto Registration in the UK](https://decrypt.co/203974/paypal-secures-crypto-registration-uk)
+  - [Use Fundamental Analysis in Crypto Investing: The "Get Rich Slowly" Approach](https://decrypt.co/resources/use-fundamental-analysis-in-crypto-investing-the-get-rich-slowly-approach)
+  - [Maple Finance Launches on Base Network, Targeting Institutional Activity](https://decrypt.co/203954/maple-finance-launches-base-network-targeting-institutional-activity)
+  - [ATP Tennis Tour Offers Customizable 2023 Finals Posters via NFT Drop](https://decrypt.co/203936/atp-offers-customizable-2023-tennis-finals-posters-nft-drop)
+  - [Crypto Tips Dominate Whistleblowing Activity This Year, Says CFTC Commissioner](https://decrypt.co/203951/crypto-tips-dominate-whistleblowing-activity-this-year-says-cftc-commissioner)
+- ChainFeeds精选
+  - [【长推】Chainlink 2.0 揭秘：LINK 价格翻倍背后的秘密武器是什么？](https://twitter.com/auggest_crypto/status/1717488656213070195)
+  - [【英文】Arbitrum Stylus：智能合约可组合性的新标准](https://review.stanfordblockchain.xyz/p/arbitrum-stylus-a-new-standard-for)
+  - [Telegram VS X： 谁将主宰 Web3 时代的超级应用竞赛？](https://medium.com/@ConsensusLab1/lk-venture研报-telegram-vs-x-推特-谁将主宰web3时代的超级应用竞赛-c0419b647325)
+  - [播客笔记｜对话 Variant Fund 联创：加密世界如何拯救传统社交网络？](https://www.techflowpost.com/article/detail_14393.html)
+  - [【英文】CeFi-DeFi 套利对订单流拍卖出价曲线的影响](https://ethresear.ch/t/the-influence-of-cefi-defi-arbitrage-on-order-flow-auction-bid-profiles/17258)
+  - [【英文长推】解码 Anoma 意图架构与人工智能：将如何改变我们的行为？](https://twitter.com/WinterSoldierxz/status/1719372342923874582)
+  - [【英文长推】一文解读 ERC-6900：模块化智能合约账户](https://twitter.com/alchemyplatform/status/1719101062756635109)
+  - [【英文长推】Aave 本地稳定币 GHO 为什么价格一直低于 1 美元？问题出在哪里？](https://twitter.com/tokenbrice/status/1719328410479059227)
+  - [【英文长推】解读 Lido DAO 中的 Simple DVT 模块](https://twitter.com/isdrsp/status/1719052944010514452)
+  - [【英文】Chainlink 会是加密世界未来的关键部分吗？](https://globalcoinresearch.com/2023/10/30/is-chainlink-the-key-to-the-future-of-crypto/)
+  - [纪念比特币白皮书 15 周年之「考古」：我是如何在 2011 年获得比特币空投的？](https://substack.chainfeeds.xyz/p/15-2011)
+  - [【英文】探究衡量区块链吞吐量的新指标：每秒用户操作次数（UOPS）](https://twitter.com/bkiepuszewski/status/1719441292197830928)
+  - [Bitget 将下架 TokenFi (TOKEN)  代币并对所有售出代币进行回购](https://www.bitget.site/zh-CN/support/articles/12560603799638)
+  - [解密以太坊的 ERC4337 变局，我们可以窥见哪些机会 ？](https://mirror.xyz/kernelventures.eth/CueeiD29daYt71_jbmSTZkIE5jvaoqsS1r9BGRLFmHA)
+  - [Celestia 主网测试版已完成部署](https://blog.celestia.org/celestia-mainnet-is-live/)
+  - [Frax Finance：另行通知前，请勿使用 frax.finance 与 frax.com 域名](https://twitter.com/fraxfinance/status/1719497560543658073)
+- ZK Podcast
+  - [Episode 297: Quantum Cryptography Part 2 with Or Sattath](https://zeroknowledge.fm/297-2/)
+- Release notes from snarkVM
+  - [v0.16.8](https://github.com/AleoHQ/snarkVM/releases/tag/v0.16.8)
+  - [v0.16.7](https://github.com/AleoHQ/snarkVM/releases/tag/v0.16.7)
+- Bitcoin Magazine Pro
+  - [UK Set to Pass Sweeping Regulation for Bitcoin Industry](https://bmpro.substack.com/p/uk-set-to-pass-sweeping-regulation)
+- Release notes from snarkOS
+  - [v2.2.4](https://github.com/AleoHQ/snarkOS/releases/tag/v2.2.4)
+  - [v2.2.3](https://github.com/AleoHQ/snarkOS/releases/tag/v2.2.3)
+- Release notes from bitcoin
+  - [v26.0rc2: Bitcoin Core 26.0 release candidate 2](https://github.com/bitcoin/bitcoin/releases/tag/v26.0rc2)
+  - [Bitcoin Core 24.2](https://github.com/bitcoin/bitcoin/releases/tag/v24.2)
+- Release notes from sui
+  - [sui_v1.14.0_1698885334_ci: Search config change (#14615)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698885334_ci)
+  - [sui_v1.14.0_1698884059_rel_notes: Search config change (#14615)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698884059_rel_notes)
+  - [sui_v1.14.0_1698874616_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698874616_ci)
+  - [sui_v1.14.0_1698872767_rel_notes: Changes not pushed to earlier PR (#14539)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698872767_rel_notes)
+  - [sui_v1.14.0_1698863746_ci: [Narwhal] speed up batch processing of fetched certificates (#14529)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698863746_ci)
+  - [sui_v1.14.0_1698861885_rel_notes: Version Packages (#14568)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698861885_rel_notes)
+  - [sui_v1.14.0_1698809266_ci: Make effects v2 type private (#14549)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698809266_ci)
+  - [sui_v1.14.0_1698807859_rel_notes: Make effects v2 type private (#14549)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698807859_rel_notes)
+  - [sui_v1.14.0_1698797753_rel_notes: [docs/graphql] remove references to testnet instance (#14581)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.14.0_1698797753_rel_notes)
+- ChainFeeds Selection
+  - [Alpha 笔记 ｜蓝筹项目地板价纷纷回升，NFT 市场「复苏在望」？11 月大额代币解锁、一周链上动态捕捉](https://substack.chainfeeds.xyz/p/alpha-nft-11)
+  - [投研早报｜Vitalik：梳理各类 L2 的不同、YBB Capital：探索比特币的多元化生态系统和协议创新、Celestia 解决了什么痛点？此刻发币的战略意图何在？](https://substack.chainfeeds.xyz/p/vitalik-l2-ybb-capitalcelestia)
+- Release notes from mobilecoin
+  - [v5.1.1](https://github.com/mobilecoinfoundation/mobilecoin/releases/tag/v5.1.1)
+- Crypto Briefing
+  - [Coinbase Debuts Crypto Futures For US Retail Traders](https://cryptobriefing.com/coinbase-debuts-futures-us-retail-traders/?utm_source=feed&utm_medium=rss)
+- Stories by Pantera Capital on Medium
+  - [Equities Down -23%](https://panteracapital.medium.com/equities-down-23-84bf61008741?source=rss-d25fb22875fb------2)
+- Release notes from nimbus-eth2
+  - [Nightly build ("unstable" branch)](https://github.com/status-im/nimbus-eth2/releases/tag/nightly)
+- Opera Mobile
+  - [Get rewarded for browsing with Opera’s newest “Shake and Win” campaign, featuring over 100,000 prizes](https://blogs.opera.com/mobile/2023/11/opera-back-with-shake-and-win-featuring-over-100000-prizes/)
+- Ethereum Research - Latest topics
+  - [Booster rollups part 2: ZK-EVM as a ZK coprocessor](https://ethresear.ch/t/booster-rollups-part-2-zk-evm-as-a-zk-coprocessor/17279)
+  - ["Exploring Layer-2 Scaling Solutions on Ethereum: A Comparative Analysis of Rollups, Plasma, and State Channels"](https://ethresear.ch/t/exploring-layer-2-scaling-solutions-on-ethereum-a-comparative-analysis-of-rollups-plasma-and-state-channels/17276)
+  - [A recursive Sierpinski Triangle topology, sharded blockchain, unlocking realtime global scalability](https://ethresear.ch/t/a-recursive-sierpinski-triangle-topology-sharded-blockchain-unlocking-realtime-global-scalability/17263)
+- Hacker Noon
+  - [Data: Is It Truly Ours Anymore?](https://hackernoon.com/data-is-it-truly-ours-anymore?source=rss)
+  - [Investigators Didn’t Do a Good Enough Job When Questioning Cops Who Killed Kawaski Trawick](https://hackernoon.com/investigators-didnt-do-a-good-enough-job-when-questioning-cops-who-killed-kawaski-trawick?source=rss)
+  - [Android: An Effective Approach to Building Caches](https://hackernoon.com/android-an-effective-approach-to-building-caches?source=rss)
+  - [Resolving React's 'Unable to Type in Input' Issue](https://hackernoon.com/resolving-reacts-unable-to-type-in-input-issue?source=rss)
+  - [Moving to Capability-Based Security with Flow: A Critical Evolution in Blockchain Security](https://hackernoon.com/moving-to-capability-based-security-with-flow-a-critical-evolution-in-blockchain-security?source=rss)
+  - [Is a Career in Game Development Right for You?](https://hackernoon.com/is-a-career-in-game-development-right-for-you?source=rss)
+  - [The Markup Wins Four Journalism Awards in the 2022 Best in Business Awards](https://hackernoon.com/the-markup-wins-four-journalism-awards-in-the-2022-best-in-business-awards?source=rss)
+  - [IN AID OF THE BLIND](https://hackernoon.com/in-aid-of-the-blind?source=rss)
+  - [ShareRing Certified In The UK As A Trusted Digital Identity Services Provider](https://hackernoon.com/sharering-certified-in-the-uk-as-a-trusted-digital-identity-services-provider?source=rss)
+  - [DCI Pioneer Aethir Joins NVIDIA Inception](https://hackernoon.com/dci-pioneer-aethir-joins-nvidia-inception?source=rss)
+  - [The Use Case Chronicles – Part 1: Who, What, and How to Use Cases](https://hackernoon.com/the-use-case-chronicles-part-1-who-what-and-how-to-use-cases?source=rss)
+  - [THE HOSTILES REJECT AND REPUDIATE ALL THE PRETENSIONS OF CHRISTIAN SCIENCE CHRISTIANITY](https://hackernoon.com/the-hostiles-reject-and-repudiate-all-the-pretensions-of-christian-science-christianity?source=rss)
+  - [Buzz, Ping, Repeat: How Social Media Notifications Shape Our Behavior](https://hackernoon.com/buzz-ping-repeat-how-social-media-notifications-shape-our-behavior?source=rss)
+  - ["ASK HIMSELF."](https://hackernoon.com/ask-himself?source=rss)
+  - [Cyber-Enabled Scamming Techniques and Social Media’s Growing Role in Warfare](https://hackernoon.com/cyber-enabled-scamming-techniques-and-social-medias-growing-role-in-warfare?source=rss)
+  - [The Power of Resource-Oriented Programming in Flow/Cadence: A Deep Dive](https://hackernoon.com/the-power-of-resource-oriented-programming-in-flowcadence-a-deep-dive?source=rss)
+  - [The Noonification: I Trained an AI to Act Like Me: Heres What Happened (11/1/2023)](https://hackernoon.com/11-1-2023-noonification?source=rss)
+  - [The Data Migration Tools to Help You Get Into MinIO](https://hackernoon.com/the-data-migration-tools-to-help-you-get-into-minio?source=rss)
+  - [Mr. John Grey in Queen Anne Street](https://hackernoon.com/mr-john-grey-in-queen-anne-street?source=rss)
+  - [Closed Source vs Open Source PIM: Navigating Regulatory and Scalability Challenges](https://hackernoon.com/closed-source-vs-open-source-pim-navigating-regulatory-and-scalability-challenges?source=rss)
+- Bankless
+  - [Bitcoin ETFs: Bullish or Bearish? with Alex Thorn](http://sites.libsyn.com/247424/bitcoin-etfs-bullish-or-bearish-with-alex-thorn)
