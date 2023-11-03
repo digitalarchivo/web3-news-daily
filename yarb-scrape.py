@@ -164,7 +164,7 @@ def job():
     add_to_readme(todayDateFileName, strdate)
 
     # loop 5 times - 307
-    for i in range(1, 3):
+    for i in range(1, 307):
         # minus one day
         runDate2 = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
         yearString = runDate2.split('-')[0]
