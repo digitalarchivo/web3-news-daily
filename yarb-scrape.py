@@ -125,7 +125,11 @@ def createAndScrape(title, filename, yearString, dateString, isToday=False):
 
     # url = 'https://raw.githubusercontent.com/dubuqingfeng/yarb-web3/main/today.md'
     r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
+    # assert r.status_code == 200
+
+    # if status code is not 200, then return
+    if r.status_code != 200:
+        return
 
     # print(r.content)
     
@@ -158,7 +162,7 @@ def job():
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
     add_to_readme(todayDateFileName, strdate)
 
-    # loop 5 times
+    # loop 5 times - 307
     for i in range(1, 307):
         # minus one day
         runDate2 = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
