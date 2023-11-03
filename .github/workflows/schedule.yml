@@ -30,7 +30,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install git+https://github.com/0xlino/web3-data.git
+        pip install git+https://github.com/0xlino/pythonmodules.git
         
     # - name: Run Scraper
     #   run: |
