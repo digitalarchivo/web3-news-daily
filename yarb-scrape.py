@@ -9,28 +9,6 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
-from translate import Translator
-
-def translate_chinese_to_english(input_text):
-    translator = Translator(to_lang="en", from_lang="zh")
-    parts = input_text.split()
-
-    # Initialize an empty list to store translated parts
-    translated_parts = []
-
-    for part in parts:
-        # Check if the part contains Chinese characters
-        if any('\u4e00' <= char <= '\u9fff' for char in part):
-            translated_part = translator.translate(part)
-        else:
-            translated_part = part
-
-        translated_parts.append(translated_part)
-
-    # Join the translated parts back into a single string
-    translated_text = ' '.join(translated_parts)
-
-    return translated_text
 
 # function that will get bitcoin price from coindesk api
 def get_btc_price():
@@ -152,16 +130,12 @@ def createAndScrape(title, filename, yearString, dateString, isToday=False):
         content = r.content.decode('utf-8')
 
         # use date string to replace date in # 每日 web3 资讯（2023-11-02) 
-        # datestring1 = '# 每日 web3 资讯'
-        # # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
-        # content = content.replace("第四阶段结束，标志着 Altitude 活动系列的结束", "testing123")
-        # content = content.replace(datestring1, '-')
+        datestring1 = '# 每日 web3 资讯'
+        # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
+        content = content.replace("第四阶段结束，标志着 Altitude 活动系列的结束", "testing123")
+        content = content.replace(datestring1, '-')
 
-        input_text = "这是一个示例句子，包括一些中文字符。This is an example sentence with some English words."
-        translated_text = translate_chinese_to_english(content)
-        print(translated_text)
-
-        f.write(translated_text)
+        f.write(content)
 
 
 def job():
