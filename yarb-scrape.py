@@ -9,7 +9,8 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
-from my_custom_package import add_to_readme, get_symbol_price
+# from my_custom_package import add_to_readme, get_symbol_price, get_btc_price, 
+from my_custom_package import add_to_readme, todayDateFileName, strdate
 
 # def add_to_readme(filename, dateString):
 #     with open('README.md', 'a') as f:
@@ -144,21 +145,10 @@ def createAndScrape(title, filename, yearString, dateString, isToday=False):
 
         f.write(content)
 
-
 def job():
-    strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    # todayDateFileName = '{date}.md'.format(date=strdate)
-
-    yesterdayDate = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
-    runDate = yesterdayDate
-    filename = '{date}.md'.format(date=runDate)
-    todayDateFileName = 'days/{date}.md'.format(date=strdate)
-
     # createAndScrape('Web3 Daily News Feed', filename, '2023', strdate, isToday=True)
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
     add_to_readme(todayDateFileName, strdate)
-
-    dateNow = datetime.datetime.now()
 
     # loop 5 times - 307
     # for i in range(1, 424):
@@ -173,10 +163,10 @@ def job():
     #     add_to_readme(filename2, runDate2)
 
 if __name__ == '__main__':
-    # job()
+    job()
     # print(package_function)
     # print(package_variable)
     # print(get_btc_price())
     # print('hello world')
-    print(get_symbol_price('bitcoin'))
-    print(get_symbol_price('ethereum'))
+    # print(get_symbol_price('bitcoin'))
+    # print(get_symbol_price('ethereum'))
