@@ -9,14 +9,14 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
-from my_custom_package import package_function, package_variable
+from my_custom_package import package_function, package_variable, add_to_readme
 
-def add_to_readme(filename, dateString):
-    with open('README.md', 'a') as f:
-        title = dateString
-        url = './' + filename
-        description = 'Web3 Daily News Feed - ' + dateString
-        f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
+# def add_to_readme(filename, dateString):
+#     with open('README.md', 'a') as f:
+#         title = dateString
+#         url = './' + filename
+#         description = 'Web3 Daily News Feed - ' + dateString
+#         f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
 
 # function that will get bitcoin price from coindesk api
 def get_btc_price():
