@@ -150,7 +150,7 @@ def createAndScrape(language, filename, yearString, dateString, isToday=False):
         # use date string to replace date in # 每日 web3 资讯（2023-11-02) 
         datestring1 = '# 每日 web3 资讯'
         # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
-        content = content.replace(datestring1, '###')
+        content = content.replace(datestring1, '-')
         f.write(content)
 
 
