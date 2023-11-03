@@ -10,10 +10,10 @@ name: Yarb Scrape
 on:
   schedule:
     - cron: "0 6 * * *"
-  push:
-    branches:
-      - main
-      - 'releases/**'
+  # push:
+  #   branches:
+  #     - main
+  #     - 'releases/**'
 
 jobs:
   build:
@@ -38,9 +38,9 @@ jobs:
         cd pythonmodules
         python setup.py install
 
-    - name: Log Directory structure
-      run: |
-        ls -R
+    # - name: Log Directory structure
+    #   run: |
+    #     ls -R
 
     # - name: Run Scraper
     #   run: |
