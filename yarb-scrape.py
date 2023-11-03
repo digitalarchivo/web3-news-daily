@@ -10,6 +10,12 @@ import createMarkdown as cm
 import constants as c
 import utils as utils
 
+def add_to_readme(filename):
+    with open('README.md', 'a') as f:
+        # add markdown link to filename
+        # f.write(f'## [{filename}]({filename})\n\n')
+        f.write(u"* [{title}](./{url}):{description}\n".format(title=filename, url=filename, description=filename))
+
 # function that will get bitcoin price from coindesk api
 def get_btc_price():
     url = 'https://api.coindesk.com/v1/bpi/currentprice.json'
@@ -132,7 +138,7 @@ def createAndScrape(title, filename, yearString, dateString, isToday=False):
         # use date string to replace date in # 每日 web3 资讯（2023-11-02) 
         datestring1 = '# 每日 web3 资讯'
         # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
-        content = content.replace("第四阶段结束，标志着 Altitude 活动系列的结束", "testing123")
+        # content = content.replace("第四阶段结束，标志着 Altitude 活动系列的结束", "testing123")
         content = content.replace(datestring1, '-')
 
         f.write(content)
@@ -148,7 +154,8 @@ def job():
     todayDateFileName = '{date}.md'.format(date=strdate)
 
     # createAndScrape('Web3 Daily News Feed', filename, '2023', strdate, isToday=True)
-    createAndScrape('Web3 Daily News Feed', 'README.md', '2023', strdate, isToday=True)
+    createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
+    add_to_readme(todayDateFileName)
 
 if __name__ == '__main__':
     job()
