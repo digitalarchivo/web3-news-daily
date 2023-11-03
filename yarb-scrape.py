@@ -10,11 +10,12 @@ import createMarkdown as cm
 import constants as c
 import utils as utils
 
-def add_to_readme(filename):
+def add_to_readme(filename, dateString):
     with open('README.md', 'a') as f:
-        # add markdown link to filename
-        # f.write(f'## [{filename}]({filename})\n\n')
-        f.write(u"* [{title}](./{url}):{description}\n".format(title=filename, url=filename, description=filename))
+        title = dateString
+        url = './' + filename
+        description = 'Web3 Daily News Feed'
+        f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
 
 # function that will get bitcoin price from coindesk api
 def get_btc_price():
@@ -155,7 +156,7 @@ def job():
 
     # createAndScrape('Web3 Daily News Feed', filename, '2023', strdate, isToday=True)
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
-    add_to_readme(todayDateFileName)
+    add_to_readme(todayDateFileName, strdate)
 
 if __name__ == '__main__':
     job()
