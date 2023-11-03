@@ -3,3 +3,4 @@ lxml
 pyquery
 requests
 schedule
+my_custom_package @ git+https://github.com/0xlino/pythonmodules.git@main

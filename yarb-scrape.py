@@ -166,16 +166,17 @@ def job():
     dateNow = datetime.datetime.now()
 
     # loop 5 times - 307
-    for i in range(1, 424):
-        # minus one day
-        runDate2 = (dateNow - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
-        yearString = runDate2.split('-')[0]
-        print(yearString)
-        print(runDate2)
-        filename2 = 'days/{date}.md'.format(date=runDate2)
-        # createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
-        createAndScrape('Web3 Daily News Feed', filename2, yearString, runDate2)
-        add_to_readme(filename2, runDate2)
+    # for i in range(1, 424):
+    #     # minus one day
+    #     runDate2 = (dateNow - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
+    #     yearString = runDate2.split('-')[0]
+    #     print(yearString)
+    #     print(runDate2)
+    #     filename2 = 'days/{date}.md'.format(date=runDate2)
+    #     # createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
+    #     createAndScrape('Web3 Daily News Feed', filename2, yearString, runDate2)
+    #     add_to_readme(filename2, runDate2)
 
 if __name__ == '__main__':
-    job()
+    # job()
+    print('hello world')
