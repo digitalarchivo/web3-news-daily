@@ -141,11 +141,29 @@ def job():
     todayDateFileName = '{date}.md'.format(date=strdate)
 
     yesterdayDate = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
+
+    # create markdown file
+    # createMarkdown(strdate, filename)
+    
+    # scrape('Shopify', filename)
+    # scrape('Liquid', filename)
+    # scrape('Typescript', filename)
+    # scrape('Javascript', filename)
+    # scrape('Python', filename)
+
+    # saveCryptoPricesToFile(filename=filename)
+
+    # scrape2('Web3 Yarb', filename, strdate)
     runDate = yesterdayDate
     filename = '{date}.md'.format(date=runDate)
-    todayDateFileName = '{date}.md'.format(date=strdate)
+    # filenameTrending = '{date}-trending.md'.format(date=runDate)
 
-    createAndScrape('Web3 Daily News Feed', filename, '2023', strdate, isToday=True)
+    # cm.createMarkdown(c.TRENDING_SCRAPE, filenameTrending)
+    # scrape('Javascript', filenameTrending)
+    # scrape('Typescript', filenameTrending)
+
+    createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
 
 if __name__ == '__main__':
     job()
+    # jobnew('javascript-trending')
