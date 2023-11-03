@@ -41,9 +41,9 @@ def git_add_commit_push(date, filename):
     os.system(cmd_git_push)
 
 
-def createMarkdown(date, filename):
-    with open(filename, 'w') as f:
-        f.write("## " + date + "\n")
+# def createMarkdown(date, filename):
+#     with open(filename, 'w') as f:
+#         f.write("## " + date + "\n")
 
 
 def scrape(language, filename):
@@ -112,7 +112,7 @@ def scrape2(language, filename, date):
 def createAndScrape(language, filename, yearString, dateString, isToday=False):
     filename = '{date}.md'.format(date=dateString)
 
-    createMarkdown(dateString, filename)
+    # createMarkdown(dateString, filename)
 
     HEADERS = {
         'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
@@ -138,7 +138,7 @@ def createAndScrape(language, filename, yearString, dateString, isToday=False):
     # items = d('div.Box article.Box-row')
 
     with codecs.open(filename, "a", "utf-8") as f:
-        f.write('\n#### {language}\n'.format(language=language))
+        f.write('#### {language}\n'.format(language=language))
 
         # strdate2 = datetime.datetime.now().strftime('%Y-%m-%d')
         # minus one day
@@ -150,7 +150,7 @@ def createAndScrape(language, filename, yearString, dateString, isToday=False):
         # use date string to replace date in # 每日 web3 资讯（2023-11-02) 
         datestring1 = '# 每日 web3 资讯'
         # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
-        content = content.replace(datestring1, 'Web3 Daily News -')
+        content = content.replace(datestring1, '###')
         f.write(content)
 
 
@@ -174,7 +174,7 @@ def job():
     # scrape2('Web3 Yarb', filename, strdate)
     runDate = yesterdayDate
     filename = '{date}.md'.format(date=runDate)
-    createAndScrape('Web3 Yarb', filename, '2023', runDate)
+    createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
 
     # createAndScrape('Web3 Yarb', filename, '2023', '2023-11-02')
 
