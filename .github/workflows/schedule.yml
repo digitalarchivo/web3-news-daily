@@ -10,10 +10,10 @@ name: Yarb Scrape
 on:
   schedule:
     - cron: "0 6 * * *"
-  # push:
-  #   branches:
-  #     - main
-  #     - 'releases/**'
+  push:
+    branches:
+      - main
+      - 'releases/**'
 
 jobs:
   build:
@@ -27,10 +27,9 @@ jobs:
       with:
         python-version: 3.8
 
-    - name: Install requirements
+    - name: Install PIP
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
 
     - name: Clone pythonmodules repository
       run: |
