@@ -50,6 +50,10 @@ def createAndScrape(language, filename, yearString, dateString, isToday=False):
         datestring1 = '# 每日 web3 资讯'
         # content = content.replace(f'# 每日 web3 资讯（{dateString}) ', '')
         content = content.replace(datestring1, '-')
+
+        translated_text = translate_chinese_to_english(content)
+        print(translated_text)
+
         f.write(content)
 
 
