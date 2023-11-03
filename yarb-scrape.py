@@ -158,5 +158,16 @@ def job():
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
     add_to_readme(todayDateFileName, strdate)
 
+    # loop 5 times
+    for i in range(1, 10):
+        # minus one day
+        runDate2 = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
+        filename2 = '{date}.md'.format(date=runDate2)
+        # createAndScrape('Web3 Daily News Feed', filename, '2023', runDate)
+        print(runDate2)
+        print(filename2)
+        createAndScrape('Web3 Daily News Feed', filename2, '2023', runDate2)
+        add_to_readme(filename2, runDate2)
+
 if __name__ == '__main__':
     job()
