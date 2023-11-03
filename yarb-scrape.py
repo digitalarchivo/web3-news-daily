@@ -1,10 +1,14 @@
 # coding:utf-8
-from my_custom_package import add_to_readme, todayDateFileName, strdate, createAndScrape, loopscrape
+from my_custom_package import add_to_readme, todayDateFileName, strdate, createAndScrape, write_to_top_of_file
+
+title = strdate
+url = './' + todayDateFileName
+description = 'Web3 Daily News Feed - ' + strdate
+readme_new_top_line = (u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
 
 def job():
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
-    add_to_readme(todayDateFileName, strdate)
-    # loopscrape()
+    write_to_top_of_file('README.md', readme_new_top_line)
 
 if __name__ == '__main__':
     job()
