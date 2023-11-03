@@ -42,9 +42,9 @@ jobs:
       run: |
         ls -R
 
-    - name: Run Scraper
-      run: |
-        python test.py
+    # - name: Run Scraper
+    #   run: |
+    #     python test.py
 
     - name: Run Scraper
       run: |
