@@ -1,19 +1,7 @@
 # coding:utf-8
-
-import datetime
-import codecs
-import requests
-import os
-import time
-from pyquery import PyQuery as pq
-import createMarkdown as cm
-import constants as c
-import utils as utils
-# from my_custom_package import add_to_readme, get_symbol_price, get_btc_price, 
 from my_custom_package import add_to_readme, todayDateFileName, strdate, createAndScrape
 
 def job():
-    # createAndScrape('Web3 Daily News Feed', filename, '2023', strdate, isToday=True)
     createAndScrape('Web3 Daily News Feed', todayDateFileName, '2023', strdate, isToday=True)
     add_to_readme(todayDateFileName, strdate)
 
