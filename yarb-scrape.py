@@ -14,7 +14,7 @@ def add_to_readme(filename, dateString):
     with open('README.md', 'a') as f:
         title = dateString
         url = './' + filename
-        description = 'Web3 Daily News Feed'
+        description = 'Web3 Daily News Feed - ' + dateString
         f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
 
 # function that will get bitcoin price from coindesk api
