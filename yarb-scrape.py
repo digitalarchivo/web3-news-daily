@@ -9,7 +9,7 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
-from my_custom_package import package_function, package_variable, add_to_readme
+from my_custom_package import package_function, package_variable, add_to_readme, get_btc_price
 
 # def add_to_readme(filename, dateString):
 #     with open('README.md', 'a') as f:
@@ -19,12 +19,6 @@ from my_custom_package import package_function, package_variable, add_to_readme
 #         f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
 
 # function that will get bitcoin price from coindesk api
-def get_btc_price():
-    url = 'https://api.coindesk.com/v1/bpi/currentprice.json'
-    response = requests.get(url)
-    data = response.json()
-    price_in_usd = data['bpi']['USD']['rate']
-    return price_in_usd
 
 def saveCryptoPricesToFile(filename):
     # get current date
@@ -182,4 +176,5 @@ if __name__ == '__main__':
     job()
     print(package_function)
     print(package_variable)
+    print(get_btc_price())
     # print('hello world')
