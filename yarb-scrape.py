@@ -9,6 +9,7 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
+from my_custom_package import package_function, package_variable
 
 def add_to_readme(filename, dateString):
     with open('README.md', 'a') as f:
@@ -178,5 +179,7 @@ def job():
     #     add_to_readme(filename2, runDate2)
 
 if __name__ == '__main__':
-    # job()
-    print('hello world')
+    job()
+    print(package_function)
+    print(package_variable)
+    # print('hello world')
