@@ -9,7 +9,7 @@ from pyquery import PyQuery as pq
 import createMarkdown as cm
 import constants as c
 import utils as utils
-from my_custom_package import package_function, package_variable, add_to_readme, get_btc_price
+from my_custom_package import add_to_readme, get_symbol_price
 
 # def add_to_readme(filename, dateString):
 #     with open('README.md', 'a') as f:
@@ -173,8 +173,10 @@ def job():
     #     add_to_readme(filename2, runDate2)
 
 if __name__ == '__main__':
-    job()
-    print(package_function)
-    print(package_variable)
-    print(get_btc_price())
+    # job()
+    # print(package_function)
+    # print(package_variable)
+    # print(get_btc_price())
     # print('hello world')
+    print(get_symbol_price('bitcoin'))
+    print(get_symbol_price('ethereum'))
