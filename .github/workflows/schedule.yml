@@ -3,10 +3,10 @@ name: Daily Web3 Scraper
 on:
   schedule:
     - cron: "0 2 * * *"
-  # push:
-  #   branches:
-  #     - main
-  #     - 'releases/**'
+  push:
+    branches:
+      - main
+      - 'releases/**'
 
 jobs:
   build:
