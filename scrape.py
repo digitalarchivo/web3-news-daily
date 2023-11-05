@@ -1,5 +1,5 @@
 # coding:utf-8
-from my_custom_package import add_to_readme, todayDateFileName, strdate, createAndScrape, write_to_top_of_file
+from my_custom_package import todayDateFileName, strdate, createAndScrape, write_to_top_of_file
 
 title = strdate
 url = './' + todayDateFileName

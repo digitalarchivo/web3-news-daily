@@ -33,7 +33,7 @@ jobs:
 
     - name: Run Scraper
       run: |
-        python yarb-scrape.py
+        python scrape.py
 
     - name: push to origin master
       run: |
