@@ -1,3 +1,4 @@
+* [2023-11-09](./days/2023-11-09.md):Web3 Daily News Feed - 2023-11-09
 * [2023-11-08](./days/2023-11-08.md):Web3 Daily News Feed - 2023-11-08
 * [2023-11-07](./days/2023-11-07.md):Web3 Daily News Feed - 2023-11-07
 * [2023-11-06](./days/2023-11-06.md):Web3 Daily News Feed - 2023-11-06
