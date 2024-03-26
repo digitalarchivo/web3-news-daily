@@ -1,3 +1,4 @@
+* [2024-03-26](./days/2024-03-26.md):Web3 Daily News Feed - 2024-03-26
 * [2024-03-25](./days/2024-03-25.md):Web3 Daily News Feed - 2024-03-25
 * [2024-03-24](./days/2024-03-24.md):Web3 Daily News Feed - 2024-03-24
 * [2024-03-23](./days/2024-03-23.md):Web3 Daily News Feed - 2024-03-23
